@@ -1,0 +1,16 @@
+# generator info
+name: Compojure API Sample
+group: atomist-project-templates
+artifact: compojure-api-sample
+version: 1.0.3
+
+# backing git repo
+repo: n/a
+branch: n/a
+sha: n/a
+
+# parameter values
+project_name: compojure-test
+project_description: this is my project
+package_name: atomist
+
